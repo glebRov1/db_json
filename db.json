@@ -1,0 +1,30 @@
+{
+  "services": [
+  {
+    "image":"https://images.pexels.com/photos/207385/pexels-photo-207385.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "title":"Sowtware Dev",
+    "description":"Sowtware Dev Lorem Ipsem development Set Amet. Sowtware Dev Lorem Ipsem development Set Amet. Sowtware Dev Lorem Ipsem development Set Amet. Sowtware Dev Lorem Ipsem development Set Amet. Sowtware Dev Lorem Ipsem development Set Amet."
+  },
+    {
+    "image":"https://images.pexels.com/photos/207385/pexels-photo-207385.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "title":"Cloud Servise and Hosting Solution",
+    "description":"Cloud Servise and Hosting Solution Lorem Ipsem cloud Set Amet. Cloud Servise and Hosting Solution Lorem Ipsem cloud Set Amet. Cloud Servise and Hosting Solution Lorem Ipsem cloud Set Amet. Cloud Servise and Hosting Solution Lorem Ipsem cloud Set Amet. Cloud Servise and Hosting Solution Lorem Ipsem cloud Set Amet."
+  },
+      {
+    "image":"https://images.pexels.com/photos/207385/pexels-photo-207385.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "title":"CyberSecuriti Solution",
+    "description":"CyberSecuriti Solution Lorem Ipsem solutin Set Amet. CyberSecuriti Solution Lorem Ipsem solution Set Amet. CyberSecuriti Solution Lorem Ipsem solution Set Amet. CyberSecuriti Solution Lorem Ipsem solution Set Amet. CyberSecuriti Solution Lorem Ipsem solution Set Amet."
+  },
+      {
+    "image":"https://images.pexels.com/photos/207385/pexels-photo-207385.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "title":"Web Dev",
+    "description":"Web Dev Lorem Ipsem development Set Amet. Web Dev Lorem Ipsem development Set Amet. Web Dev Lorem Ipsem development Set Amet. Web Dev Lorem Ipsem development Set Amet. Web Dev Lorem Ipsem development Set Amet."
+  },
+    {
+    "image":"https://images.pexels.com/photos/207385/pexels-photo-207385.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "title":"Data analytic",
+    "description":"Data analytic Lorem Ipsem data Set Amet. Data analytic Lorem Ipsem data Set Amet. Data analytic Lorem Ipsem data Set Amet. Data analytic Lorem Ipsem data Set Amet. Data analytic Lorem Ipsem data Set Amet."
+  }
+  ]
+  
+}
